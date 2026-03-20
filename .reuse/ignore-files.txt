@@ -23,6 +23,7 @@ Server/src/assets/logo.png
 .github/workflows/lint.yml
 .github/workflows/test-build-server.yml
 .github/workflows/build-push.yml
+.github/workflows/sync-upstream.yml
 00_Base/package.json
 00_Base/tsconfig.json
 03_Modules/Cdrs/package.json
